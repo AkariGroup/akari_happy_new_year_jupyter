@@ -1,0 +1,2 @@
+# akari_happy_new_year_jupyter
+AKARIがお正月の挨拶をするサンプルアプリです。
